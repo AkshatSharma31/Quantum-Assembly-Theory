@@ -1,5 +1,3 @@
-# Quantum-Assembly-Theory
-
 # Quantum Assembly Theory (QAT) Framework ⚛️
 
 [![ChemRxiv](https://img.shields.io/badge/ChemRxiv-Preprint-29b6f6?style=for-the-badge&logo=arxiv&logoColor=white)](#) 
