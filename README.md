@@ -7,11 +7,11 @@
 > **Preprint:** *Quantum assembly theory defines molecular complexity from electron density* (ChemRxiv 2026) 
 
 ## 📋 Overview
-This repository contains the full computational pipeline used to calculate the Density-Based Assembly Index ($A_\rho$). The workflow integrates semi-empirical geometry optimization, DFT single-point calculations, QTAIM topological analysis, and custom Python strain calculators to evaluate molecular complexity from fundamental electron density descriptors.
+This repository contains the full computational pipeline used to calculate the Density-Based Assembly Index (Aρ). The workflow integrates semi-empirical geometry optimization, DFT single-point calculations, QTAIM topological analysis, and custom Python strain calculators to evaluate molecular complexity from fundamental electron density descriptors.
 
 ---
 
-## 🚀 The $A_\rho$ Computational Pipeline
+## 🚀 The Aρ Computational Pipeline
 
 The framework is executed in a strict five-step protocol:
 
